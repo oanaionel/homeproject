@@ -1,0 +1,10 @@
+
+1. Baza de date este populata prin executarea clasei HomeProject.class
+2. persistance.xml contine datele necesare conectarii la baza de date
+3. Necesita 2 librari: Java DB Driver si jcalendar.
+
+Tehnologiile folosite:
+- Java DB
+- JPA (Java Persistance API)
+- Java SE Swing
+
